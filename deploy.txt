@@ -1,0 +1,8 @@
+set FLASK_APP= python-api-verification.py
+set FLASK_ENV= development
+flask run
+
+
+
+
+
