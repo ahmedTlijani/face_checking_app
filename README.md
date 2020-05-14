@@ -20,8 +20,10 @@ flask run
 
 ``data = { cin : "", known_image : "", unknown_image:"" } ``
 
-- cin:  id
-- known_image, unknown_image: the images to compare
+``
+ cin:  id
+ known_image, unknown_image: the images to compare
+``
 
 - Received data form 
 
